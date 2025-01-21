@@ -1,1 +1,1 @@
-updated security
+updating the security dashboard panel
